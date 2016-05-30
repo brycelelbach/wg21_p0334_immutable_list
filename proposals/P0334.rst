@@ -9,7 +9,7 @@ P0334r0 : Immutable Persistent Containers
 :Author: Bryce Adelstein Lelbach 
 :Contact: balelbach@lbl.gov
 :Audience: Library Evolution Working Group (LEWG)
-:URL: TODO
+:URL: https://git.io/vr7qi
 
 .. sectnum::
 
